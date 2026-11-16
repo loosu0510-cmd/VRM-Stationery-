@@ -1,0 +1,6 @@
+{
+  "name": "VRM Stationery, Gifts & Sports",
+  "description": "Local retail store website for VRM Stationery, Gifts & Sports (VRM Second Branch) on Cheyyur Road, Near Railway Gate, Sothupakkam – 603319, Tamil Nadu, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
